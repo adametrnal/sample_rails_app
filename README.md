@@ -1,3 +1,3 @@
-# Ruby On Rails Tutorial: demo application
+# Ruby On Rails Tutorial: sample application
 
-This is the demo app for Ruby on Rails Tutorial by Michael Hartl
+This is the sample app for Ruby on Rails Tutorial by Michael Hartl
